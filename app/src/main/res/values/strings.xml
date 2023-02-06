@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hola Mundo2</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="empezamos">¡EMPEZAMOS!</string>
+    <string name="ahora_es_tu_turno">Ahora es tu turno</string>
+</resources>
